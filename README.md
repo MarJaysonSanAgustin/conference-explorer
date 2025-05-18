@@ -8,12 +8,10 @@ A responsive web application written in Next.js and Typescrypt that allows users
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Environment Variables](#environment-variables)
   - [Available Scripts](#available-scripts)
-
 - [Project Structure](#project-structure)
 - [Implementation Overview](#implementation-overview)
 - [Testing](#testing)
@@ -23,7 +21,7 @@ A responsive web application written in Next.js and Typescrypt that allows users
 
 ## Demo
 
-_(Include a link or screenshot of the running application here)_
+[Click this demo link 🡥](https://conference-explorer.vercel.app/)
 
 ## Features
 
